@@ -1,5 +1,11 @@
 # Overview
-A garden planter that uses a genetic algorithm to find the most ideal planting schedule
+A garden planter that uses a genetic algorithm to find the most ideal planting schedule to maximize results for a given planting location.
+
+# Reasoning
+
+It is one thing to put a tomato plant in a pot so that there are fresh tomatoes for a special meal; it is a significantly harder with a limited skillset to grow AS MUCH as can be done to maximize harvests to feed yourself or your family. When hunger is the alternative to success, knowing how to take maximimum advantage of your growing area is critical.
+
+Climate change will affect all of us- having a tool like this could help have less reliance on your global food distribution network.
 
 # Details
 There are three main files:
