@@ -43,7 +43,7 @@ The `garden` key:
 
 
 # Notes
-This program uses [Numpy](https://numpy.org/). Install it via your package manager, or install it via pip:
+This program uses [Numpy](https://numpy.org/), and [PyYAML](https://pypi.org/project/PyYAML/). Install them via your package manager, or install it via pip:
 
 ```shell
 $ python3 -m pip install --user numpy
