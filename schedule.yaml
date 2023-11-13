@@ -6,7 +6,6 @@ simulation:
   data_file: garden_info.yaml
 garden:
   zone: 8
-  start_date: today
   boxes:
   - name: Closest to House
     size: 4x4
