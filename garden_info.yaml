@@ -1,0 +1,4903 @@
+plants:
+  apple:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: malus
+    combative_plants:
+    - grass
+    - potato
+    companion_plants:
+    - chives
+    - garlic
+    - horseradish
+    - lemon_balm
+    - marigold
+    - mustard
+    - nasturtium
+    - spinach
+    - tansy
+    - yarrow
+    dimensions:
+      length: 3
+      width: 3
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/1
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  apricot:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: prunus
+    combative_plants:
+    - grass
+    - tomato
+    companion_plants:
+    - basil
+    - garlic
+    - horseradish
+    - lemon_balm
+    - marigold
+    - mustard
+    - nasturtium
+    - spinach
+    - stinging_nettle
+    - sunflower
+    - tansy
+    - yarrow
+    dimensions:
+      length: 3
+      width: 3
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 12/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 11/15 - 12/31
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 12/15 - 1/31
+  artichoke:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      species: cynara cardunculus var. scolymus
+    combative_plants:
+    - potato
+    companion_plants:
+    - tarragon
+    - coriander
+    - anise
+    dimensions:
+      length: 4
+      width: 4
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 9/ 15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_7:
+          planting_dates:
+          - 1/15 - 3/15
+        zone_8:
+          germination_days: 10
+          maturity_days: 150
+          planting_dates:
+          - 1/1 - 3/1
+        zone_9:
+          planting_dates:
+          - 10/15 - 2/15
+  asparagus:
+    bad_predecessors: []
+    classification:
+      family: asparagaceae
+      genus: asparagus
+    combative_plants: []
+    companion_plants:
+    - basil
+    - beets
+    - chives
+    - marjoram
+    - parsley
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/5
+        zone_11:
+          planting_dates:
+          - 2/5 - 3/25
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/25 - 6/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/5 - 5/25
+        zone_6:
+          planting_dates:
+          - 3/25 - 5/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 5/5
+        zone_8:
+          germination_days: 14
+          maturity_days: 365
+          planting_dates:
+          - 3/5 - 4/25
+        zone_9:
+          planting_dates:
+          - 2/25 - 4/15
+  basil:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: ocimum
+    combative_plants:
+    - rue
+    - silverbeet
+    companion_plants:
+    - apricot
+    - asparagus
+    - beets
+    - chives
+    - cucumber
+    - fennel
+    - lettuce
+    - parsley
+    - spinach
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 12/15 - 1/31
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 5
+          maturity_days: 60
+          planting_dates:
+          - 2/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 1/15 - 2/28
+  beans:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      genus: phaseolus
+    combative_plants:
+    - chives
+    - fennel
+    - garlic
+    - onion
+    - shallots
+    companion_plants:
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - carrot
+    - cauliflower
+    - celery
+    - corn
+    - cucumber
+    - eggplant
+    - grape_vine
+    - lettuce
+    - marigold
+    - marjoram
+    - parsley
+    - parsnip
+    - peas
+    - potato
+    - rosemary
+    - sage
+    - savory
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/31
+        zone_11:
+          planting_dates:
+          - 1/1 - 3/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/25
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 3/1 - 5/10
+        zone_8:
+          germination_days: 6
+          maturity_days: 50
+          planting_dates:
+          - 2/15 - 4/30
+        zone_9:
+          planting_dates:
+          - 2/1 - 4/15
+  beets:
+    bad_predecessors: []
+    classification:
+      family: amaranthaceae
+      genus: beta
+    combative_plants:
+    - climbing_bean
+    - tomato
+    companion_plants:
+    - asparagus
+    - basil
+    - broccoli
+    - brussell_sprout
+    - bush_beans
+    - cabbage
+    - cauliflower
+    - dill
+    - lettuce
+    - marjoram
+    - onion
+    - potato
+    - silverbeet
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 12/15 - 3/15
+        zone_11:
+          planting_dates:
+          - 12/1 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/25
+        zone_6:
+          planting_dates:
+          - 2/15 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/1 - 4/10
+        zone_8:
+          germination_days: 5
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/1 - 3/25
+  borage:
+    bad_predecessors: []
+    classification:
+      family: boraginaceae
+      genus: borago
+    combative_plants: []
+    companion_plants:
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - cauliflower
+    - cucumber
+    - peas
+    - squash
+    - strawberry
+    - tansy
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  broad_beans:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      genus: vicia
+    combative_plants:
+    - chives
+    - fennel
+    - garlic
+    - onion
+    companion_plants:
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - cauliflower
+    - corn
+    - lettuce
+    - marjoram
+    - potato
+    - spinach
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_11:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/15
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_8:
+          germination_days: 8
+          maturity_days: 75
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/1 - 1/15
+  broccoli:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: brassica
+    combative_plants:
+    - rue
+    - strawberry
+    companion_plants:
+    - beans
+    - beets
+    - borage
+    - broad_beans
+    - bush_beans
+    - climbing_bean
+    - coriander
+    - cucumber
+    - dill
+    - lettuce
+    - marigold
+    - marjoram
+    - nasturtium
+    - potato
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 60
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  brussell_sprout:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: brassica
+    combative_plants: []
+    companion_plants:
+    - beans
+    - beets
+    - borage
+    - broad_beans
+    - bush_beans
+    - climbing_bean
+    - coriander
+    - cucumber
+    - dill
+    - marigold
+    - marjoram
+    - potato
+    - strawberry
+    - sunflower
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 80
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  bush_beans:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      genus: phaseolus
+    combative_plants:
+    - chives
+    - garlic
+    - onion
+    companion_plants:
+    - beets
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - cauliflower
+    - celery
+    - corn
+    - cucumber
+    - marjoram
+    - potato
+    - strawberry
+    - sunflower
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/15
+        zone_11:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_8:
+          germination_days: 6
+          maturity_days: 50
+          planting_dates:
+          - 3/1 - 4/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 3/31
+  cabbage:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: brassica
+    combative_plants:
+    - garlic
+    - rue
+    - strawberry
+    - tomato
+    companion_plants:
+    - beans
+    - beets
+    - borage
+    - broad_beans
+    - bush_beans
+    - cauliflower
+    - celery
+    - chamomile
+    - climbing_bean
+    - coriander
+    - cucumber
+    - dill
+    - lavender
+    - lettuce
+    - marigold
+    - marjoram
+    - mints
+    - nasturtium
+    - onion
+    - peas
+    - pennyroyal
+    - potato
+    - rosemary
+    - sage
+    - tansy
+    - thyme
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 80
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  carrot:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: daucus
+    combative_plants:
+    - parsnip
+    companion_plants:
+    - beans
+    - cauliflower
+    - chives
+    - coriander
+    - cucumber
+    - dill
+    - fruit_trees
+    - leeks
+    - lettuce
+    - marigold
+    - marjoram
+    - onion
+    - parsley
+    - peas
+    - radish
+    - rosemary
+    - rue
+    - sage
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 10
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  cauliflower:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: brassica
+    combative_plants:
+    - rue
+    - strawberry
+    companion_plants:
+    - beans
+    - beets
+    - borage
+    - broad_beans
+    - bush_beans
+    - cabbage
+    - carrot
+    - celery
+    - climbing_bean
+    - coriander
+    - cucumber
+    - dill
+    - marigold
+    - marjoram
+    - potato
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 60
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  celery:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: apium
+    combative_plants:
+    - parsnip
+    - potato
+    companion_plants:
+    - beans
+    - bush_beans
+    - cabbage
+    - cauliflower
+    - dill
+    - leeks
+    - marjoram
+    - peas
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 14
+          maturity_days: 100
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  chamomile:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      genus: matricaria
+    combative_plants:
+    - mints
+    companion_plants:
+    - cabbage
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/15 - 2/1
+        zone_11:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/15
+  cherry:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: prunus
+    combative_plants:
+    - grass
+    - potato
+    companion_plants:
+    - chives
+    - garlic
+    - horseradish
+    - lemon_balm
+    - lettuce
+    - marigold
+    - mustard
+    - nasturtium
+    - silverbeet
+    - spinach
+    - tansy
+    - yarrow
+    dimensions:
+      length: 3
+      width: 3
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  chervil:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: anthriscus
+    combative_plants: []
+    companion_plants:
+    - coriander
+    - dill
+    - garlic
+    - lettuce
+    - parsley
+    - radish
+    - yarrow
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 14
+          maturity_days: 60
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  chives:
+    bad_predecessors: []
+    classification:
+      family: amaryllidaceae
+      genus: allium
+    combative_plants:
+    - beans
+    - broad_beans
+    - bush_beans
+    - climbing_bean
+    - peas
+    companion_plants:
+    - apple
+    - asparagus
+    - basil
+    - carrot
+    - cherry
+    - fruit_trees
+    - marjoram
+    - mulberry
+    - parsley
+    - parsnip
+    - roses
+    - strawberry
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  cilantro:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      species: coriandrum sativum
+    combative_plants:
+    - fennel
+    companion_plants:
+    - anise
+    - caraway
+    - chervil
+    - coriander
+    - dill
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 9/ 15 - 1/15
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/1 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 45
+          planting_dates:
+          - 10/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/1 - 2/1
+  climbing_bean:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      genus: phaseolus
+    combative_plants:
+    - beets
+    - chives
+    - garlic
+    - onion
+    - sunflower
+    companion_plants:
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - cauliflower
+    - corn
+    - lettuce
+    - marjoram
+    - radish
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/15
+        zone_11:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_8:
+          germination_days: 6
+          maturity_days: 50
+          planting_dates:
+          - 3/1 - 4/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 3/31
+  coriander:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: coriandrum
+    combative_plants:
+    - fennel
+    companion_plants:
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - carrot
+    - cauliflower
+    - chervil
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  corn:
+    bad_predecessors: []
+    classification:
+      family: poaceae
+      genus: zea
+    combative_plants: []
+    companion_plants:
+    - beans
+    - broad_beans
+    - bush_beans
+    - climbing_bean
+    - cucumber
+    - marjoram
+    - parsnip
+    - peas
+    - potato
+    - pumpkin
+    - radish
+    - squash
+    - zucchini
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_11:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_8:
+          germination_days: 5
+          maturity_days: 60
+          planting_dates:
+          - 3/15 - 5/1
+        zone_9:
+          planting_dates:
+          - 3/1 - 4/15
+  cucumber:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      genus: cucumis
+    combative_plants:
+    - potato
+    - sage
+    companion_plants:
+    - basil
+    - beans
+    - borage
+    - broccoli
+    - brussell_sprout
+    - bush_beans
+    - cabbage
+    - carrot
+    - cauliflower
+    - corn
+    - dill
+    - lettuce
+    - marjoram
+    - nasturtium
+    - peas
+    - radish
+    - sunflower
+    - tansy
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_11:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_8:
+          germination_days: 6
+          maturity_days: 50
+          planting_dates:
+          - 3/15 - 5/1
+        zone_9:
+          planting_dates:
+          - 3/1 - 4/15
+  dill:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: anethum
+    combative_plants: []
+    companion_plants:
+    - beets
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - carrot
+    - cauliflower
+    - celery
+    - chervil
+    - coriander
+    - dill
+    - cucumber
+    - fennel
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_8:
+          germination_days: 10
+          maturity_days: 70
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  eggplant:
+    bad_predecessors: []
+    classification:
+      family: solanaceae
+      genus: solanum
+    combative_plants: []
+    companion_plants:
+    - beans
+    - marjoram
+    - potato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_11:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_8:
+          germination_days: 7
+          maturity_days: 90
+          planting_dates:
+          - 3/15 - 5/1
+        zone_9:
+          planting_dates:
+          - 3/1 - 4/15
+  fennel:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: foeniculum
+    combative_plants:
+    - beans
+    - broad_beans
+    - coriander
+    - lavender
+    - tomato
+    companion_plants:
+    - basil
+    - dill
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  fruit_trees:
+    bad_predecessors: []
+    classification:
+      family: various
+      genus: various
+    combative_plants:
+    - grass
+    companion_plants:
+    - carrot
+    - chives
+    - garlic
+    - lemon_balm
+    - marigold
+    - mustard
+    - nasturtium
+    - silverbeet
+    - spinach
+    - stinging_nettle
+    - tansy
+    - yarrow
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: null
+          maturity_days: null
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  garlic:
+    bad_predecessors: []
+    classification:
+      family: amaryllidaceae
+      genus: allium
+    combative_plants:
+    - beans
+    - broad_beans
+    - bush_beans
+    - cabbage
+    - climbing_bean
+    - peas
+    - strawberry
+    - sunflower
+    companion_plants:
+    - apple
+    - apricot
+    - cherry
+    - chervil
+    - fruit_trees
+    - lavender
+    - mulberry
+    - rosemary
+    - roses
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 9/15 - 10/15
+        zone_10:
+          planting_dates:
+          - 10/20 - 12/1
+        zone_11:
+          planting_dates:
+          - 10/20 - 12/1
+        zone_2:
+          planting_dates:
+          - 9/1 - 10/1
+        zone_3:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_4:
+          planting_dates:
+          - 9/15 - 10/30
+        zone_5:
+          planting_dates:
+          - 9/1 - 10/15
+        zone_6:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_7:
+          planting_dates:
+          - 10/15 - 11/30
+        zone_8:
+          germination_days: 7
+          maturity_days: 180
+          planting_dates:
+          - 10/15 - 11/30
+        zone_9:
+          planting_dates:
+          - 10/20 - 12/1
+  gooseberry:
+    bad_predecessors: []
+    classification:
+      family: grossulariaceae
+      genus: ribes
+    combative_plants: []
+    companion_plants:
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  grape_vine:
+    bad_predecessors: []
+    classification:
+      family: vitaceae
+      genus: vitis
+    combative_plants: []
+    companion_plants:
+    - beans
+    - mulberry
+    - mustard
+    - tansy
+    - tomato
+    - yarrow
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  grass:
+    bad_predecessors: []
+    classification:
+      family: poaceae
+      genus: various
+    combative_plants:
+    - apple
+    - apricot
+    - cherry
+    - fruit_trees
+    - sage
+    companion_plants:
+    - mulberry
+    - yarrow
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - null
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - null
+        zone_4:
+          planting_dates:
+          - null
+        zone_5:
+          planting_dates:
+          - null
+        zone_6:
+          planting_dates:
+          - null
+        zone_7:
+          planting_dates:
+          - null
+        zone_8:
+          germination_days: null
+          maturity_days: null
+          planting_dates:
+          - null
+        zone_9:
+          planting_dates:
+          - null
+  horseradish:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: armoracia
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - cherry
+    - potato
+    - roses
+    - stinging_nettle
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 14
+          maturity_days: 150
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  kale:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      species: brassica oleracea var. acephala
+    combative_plants:
+    - strawberries
+    companion_plants:
+    - aromatic herbs
+    - dill
+    - chamomile
+    - garlic
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 9/ 15 - 1/15
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/1 - 4/1
+        zone_8:
+          germination_days: 3
+          maturity_days: 55
+          planting_dates:
+          - 10/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/1 - 2/1
+  kohlrabi:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      species: brassica oleracea var. gongylodes
+    combative_plants:
+    - tomatoes
+    companion_plants:
+    - nasturtium
+    - marigold
+    - thyme
+    - mint
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 9/ 15 - 1/15
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/1 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 45
+          planting_dates:
+          - 10/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/1 - 2/1
+  lavender:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: lavandula
+    combative_plants:
+    - fennel
+    companion_plants:
+    - cabbage
+    - garlic
+    - marjoram
+    - roses
+    - silverbeet
+    - strawberry
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  leeks:
+    bad_predecessors: []
+    classification:
+      family: amaryllidaceae
+      genus: allium
+    combative_plants: []
+    companion_plants:
+    - carrot
+    - celery
+    - marjoram
+    - onion
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 12/1
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 1/15 - 4/1
+        zone_7:
+          planting_dates:
+          - 1/1 - 3/15
+        zone_8:
+          germination_days: 10
+          maturity_days: 100
+          planting_dates:
+          - 11/15 - 2/1
+        zone_9:
+          planting_dates:
+          - 10/15 - 1/15
+  lemon_balm:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: melissa
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - cherry
+    - fruit_trees
+    - mulberry
+    - roses
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 60
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  lettuce:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      species: lactuca sativa
+    combative_plants:
+    - cabbage family
+    companion_plants:
+    - carrots
+    - radishes
+    - strawberries
+    - cucumbers
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 9/ 15 - 1/15
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/1 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 45
+          planting_dates:
+          - 10/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/1 - 2/1
+  marigold:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      genus: tagetes
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - beans
+    - broccoli
+    - brussell_sprout
+    - cabbage
+    - carrot
+    - cauliflower
+    - cherry
+    - fruit_trees
+    - lettuce
+    - mulberry
+    - potato
+    - raspberry
+    - roses
+    - strawberry
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 5
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  marjoram:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: origanum
+    combative_plants: []
+    companion_plants:
+    - asparagus
+    - beans
+    - beets
+    - broad_beans
+    - broccoli
+    - brussell_sprout
+    - bush_beans
+    - cabbage
+    - carrot
+    - cauliflower
+    - celery
+    - chives
+    - climbing_bean
+    - corn
+    - cucumber
+    - eggplant
+    - lavender
+    - leeks
+    - lettuce
+    - onion
+    - parsnip
+    - peas
+    - potato
+    - pumpkin
+    - radish
+    - shallots
+    - silverbeet
+    - spinach
+    - squash
+    - tomato
+    - zucchini
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 10
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  melon:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      genus: cucumis
+    combative_plants:
+    - ''
+    companion_plants:
+    - ''
+    dimensions:
+      length: 2
+      width: 2
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_11:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_8:
+          germination_days: 5
+          maturity_days: 70
+          planting_dates:
+          - 3/15 - 5/1
+        zone_9:
+          planting_dates:
+          - 3/1 - 4/15
+  mints:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: mentha
+    combative_plants:
+    - chamomile
+    - parsley
+    companion_plants:
+    - cabbage
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 7
+          maturity_days: 60
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  mulberry:
+    bad_predecessors: []
+    classification:
+      family: moraceae
+      genus: morus
+    combative_plants: []
+    companion_plants:
+    - chives
+    - garlic
+    - grape_vine
+    - grass
+    - lemon_balm
+    - marigold
+    - mustard
+    - nasturtium
+    - silverbeet
+    - spinach
+    - tansy
+    - yarrow
+    dimensions:
+      length: 3
+      width: 3
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  mustard:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: sinapis
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - cherry
+    - fruit_trees
+    - grape_vine
+    - mulberry
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 12/1
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/15
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/1 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/1 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/15 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/1 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 30
+          planting_dates:
+          - 1/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 1/1
+  nasturtium:
+    bad_predecessors: []
+    classification:
+      family: tropaeolaceae
+      genus: tropaeolum
+    combative_plants: []
+    companion_plants:
+    - apricot
+    - cabbage
+    - cherry
+    - cucumber
+    - fruit_trees
+    - potato
+    - radish
+    - roses
+    - tomato
+    - zucchini
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 10/1 - 11/15
+        zone_11:
+          planting_dates:
+          - 9/15 - 11/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 7
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/15 - 12/1
+  okra:
+    bad_predecessors: []
+    classification:
+      family: malvaceae
+      species: abelmoschus esculentus
+    combative_plants:
+    - melons
+    companion_plants:
+    - eggplant
+    - peppers
+    - tomatoes
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 7
+          maturity_days: 50
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  onion:
+    bad_predecessors: []
+    classification:
+      family: amaryllidaceae
+      genus: allium
+    combative_plants:
+    - beans
+    - broad_beans
+    - bush_beans
+    - climbing_bean
+    - peas
+    companion_plants:
+    - beets
+    - cabbage
+    - carrot
+    - leeks
+    - lettuce
+    - marjoram
+    - parsley
+    - parsnip
+    - roses
+    - savory
+    - silverbeet
+    - strawberry
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_10:
+          planting_dates:
+          - 9/1 - 10/15
+        zone_2:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_3:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_4:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_5:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_6:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_7:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 90
+          planting_dates:
+          - 10/1 - 11/15
+        zone_9:
+          planting_dates:
+          - 9/15 - 11/1
+  oregano:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      species: origanum vulgare
+    combative_plants:
+    - ''
+    companion_plants:
+    - ''
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  parsley:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: petroselinum
+    combative_plants:
+    - lettuce
+    - mints
+    companion_plants:
+    - asparagus
+    - basil
+    - beans
+    - carrot
+    - chervil
+    - chives
+    - onion
+    - rosemary
+    - roses
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 70
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  parsnip:
+    bad_predecessors: []
+    classification:
+      family: apiaceae
+      genus: pastinaca
+    combative_plants:
+    - carrot
+    - celery
+    companion_plants:
+    - beans
+    - chives
+    - coriander
+    - dill
+    - corn
+    - lettuce
+    - marjoram
+    - onion
+    - peas
+    - potato
+    - radish
+    - sage
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  peas:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      genus: pisum
+    combative_plants:
+    - chives
+    - garlic
+    - onion
+    - shallots
+    companion_plants:
+    - beans
+    - borage
+    - cabbage
+    - carrot
+    - celery
+    - corn
+    - cucumber
+    - lettuce
+    - marjoram
+    - parsnip
+    - potato
+    - raspberry
+    - sage
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_10:
+          planting_dates:
+          - 8/15 - 10/15
+        zone_2:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_3:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_4:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_5:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_6:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_7:
+          planting_dates:
+          - 10/1 - 12/1
+        zone_8:
+          germination_days: 6
+          maturity_days: 60
+          planting_dates:
+          - 9/15 - 11/15
+        zone_9:
+          planting_dates:
+          - 9/1 - 11/1
+  pennyroyal:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: mentha
+    combative_plants: []
+    companion_plants:
+    - cabbage
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/15
+        zone_11:
+          planting_dates:
+          - 1/1 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 7/1
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_5:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_6:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 3/1 - 4/15
+        zone_9:
+          planting_dates:
+          - 2/1 - 4/1
+  pepper:
+    bad_predecessors: []
+    classification:
+      family: solanaceae
+      genus: capsicum
+    combative_plants:
+    - ''
+    companion_plants:
+    - ''
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_10:
+          planting_dates:
+          - 8/15 - 10/15
+        zone_2:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_3:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_4:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_5:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_6:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_7:
+          planting_dates:
+          - 10/1 - 12/1
+        zone_8:
+          germination_days: 14
+          maturity_days: 60
+          planting_dates:
+          - 9/15 - 11/15
+        zone_9:
+          planting_dates:
+          - 9/1 - 11/1
+  pole_beans:
+    bad_predecessors: []
+    classification:
+      family: fabaceae
+      species: phaseolus vulgaris
+    combative_plants:
+    - beets
+    companion_plants:
+    - corn
+    - potato
+    - radishes
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 6
+          maturity_days: 50
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  potato:
+    bad_predecessors: []
+    classification:
+      family: solanaceae
+      genus: solanum
+    combative_plants:
+    - apple
+    - celery
+    - cherry
+    - cucumber
+    companion_plants:
+    - beans
+    - beets
+    - broad_beans
+    - broccoli
+    - brussell_sprout
+    - bush_beans
+    - cabbage
+    - cauliflower
+    - corn
+    - marigold
+    - marjoram
+    - nasturtium
+    - peas
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 14
+          maturity_days: 70
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  pumpkin:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      genus: cucurbita
+    combative_plants:
+    - potato
+    companion_plants:
+    - corn
+    - marjoram
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 2/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 1/15 - 1/31
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_8:
+          germination_days: 5
+          maturity_days: 80
+          planting_dates:
+          - 3/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 2/28
+  radish:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      genus: raphanus
+    combative_plants: []
+    companion_plants:
+    - carrot
+    - chervil
+    - climbing_bean
+    - corn
+    - cucumber
+    - lettuce
+    - marjoram
+    - nasturtium
+    - nasturtiums
+    - parsnip
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_10:
+          planting_dates:
+          - 12/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 11/15 - 1/31
+        zone_2:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_3:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_4:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_5:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 4/1
+        zone_8:
+          germination_days: 5
+          maturity_days: 20
+          planting_dates:
+          - 1/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 12/15 - 2/28
+  raspberry:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: rubus
+    combative_plants:
+    - potato
+    companion_plants:
+    - marigold
+    - peas
+    - rue
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 3/15 - 4/30
+        zone_10:
+          planting_dates:
+          - 9/1 - 10/15
+        zone_11:
+          planting_dates:
+          - 8/15 - 9/30
+        zone_2:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_3:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_4:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_5:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_6:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_7:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_8:
+          germination_days: 15
+          maturity_days: 90
+          planting_dates:
+          - 10/1 - 11/15
+        zone_9:
+          planting_dates:
+          - 9/15 - 11/1
+  rhubarb:
+    bad_predecessors: []
+    classification:
+      family: polygonaceae
+      species: rheum rhabarbarum
+    combative_plants:
+    - ''
+    companion_plants:
+    - beans
+    - brussels sprouts
+    - cabbage
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_10:
+          planting_dates:
+          - 11/ 1 - 12/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_3:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_4:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_5:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_6:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_7:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_8:
+          germination_days: null
+          maturity_days: null
+          planting_dates:
+          - 12/1 - 2/1
+        zone_9:
+          planting_dates:
+          - 11/ 15 - 1/15
+  rosemary:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: rosmarinus
+    combative_plants:
+    - potato
+    - tomato
+    companion_plants:
+    - beans
+    - cabbage
+    - carrot
+    - garlic
+    - parsley
+    - sage
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/30
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  roses:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: rosa
+    combative_plants: []
+    companion_plants:
+    - chives
+    - garlic
+    - horseradish
+    - lavender
+    - lemon_balm
+    - marigold
+    - nasturtium
+    - nasturtiums
+    - onion
+    - parsley
+    - rue
+    - sage
+    - tansy
+    - thyme
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: null
+          maturity_days: null
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  rue:
+    bad_predecessors: []
+    classification:
+      family: rutaceae
+      genus: ruta
+    combative_plants:
+    - basil
+    - broccoli
+    - cabbage
+    - cauliflower
+    - sage
+    companion_plants:
+    - carrot
+    - raspberry
+    - roses
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/1 - 6/1
+        zone_10:
+          planting_dates:
+          - 10/15 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/1 - 1/1
+        zone_2:
+          planting_dates:
+          - 3/15 - 5/15
+        zone_3:
+          planting_dates:
+          - 3/1 - 5/1
+        zone_4:
+          planting_dates:
+          - 2/15 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/1 - 4/1
+        zone_6:
+          planting_dates:
+          - 1/15 - 3/15
+        zone_7:
+          planting_dates:
+          - 12/15 - 2/28
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 12/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/1 - 1/31
+  rutabaga:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      species: brassica napobrassica
+    combative_plants:
+    - mustard family
+    companion_plants:
+    - potato
+    - peas
+    - lettuce
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 3
+          maturity_days: 90
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  sage:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: salvia
+    combative_plants:
+    - cucumber
+    - grass
+    - rue
+    companion_plants:
+    - beans
+    - cabbage
+    - carrot
+    - parsnip
+    - peas
+    - rosemary
+    - roses
+    - strawberry
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 10
+          maturity_days: 80
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  savory:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: satureja
+    combative_plants: []
+    companion_plants:
+    - beans
+    - onion
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 1/15 - 2/28
+        zone_8:
+          germination_days: 10
+          maturity_days: 70
+          planting_dates:
+          - 1/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 1/31
+  shallots:
+    bad_predecessors: []
+    classification:
+      family: amaryllidaceae
+      genus: allium
+    combative_plants:
+    - beans
+    - peas
+    companion_plants:
+    - marjoram
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_10:
+          planting_dates:
+          - 11/15 - 12/1
+        zone_11:
+          planting_dates:
+          - 11/1 - 11/ 15
+        zone_2:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_3:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_4:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_5:
+          planting_dates:
+          - 2/1 - 3/15
+        zone_6:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_7:
+          planting_dates:
+          - 1/1 - 2/15
+        zone_8:
+          germination_days: 7
+          maturity_days: 90
+          planting_dates:
+          - 12/15 - 1/31
+        zone_9:
+          planting_dates:
+          - 12/1 - 1/15
+  silverbeet:
+    bad_predecessors: []
+    classification:
+      family: amaranthaceae
+      genus: beta
+    combative_plants:
+    - basil
+    companion_plants:
+    - beets
+    - cherry
+    - fruit_trees
+    - lavender
+    - marjoram
+    - mulberry
+    - onion
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 7
+          maturity_days: 50
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  spinach:
+    bad_predecessors: []
+    classification:
+      family: amaranthaceae
+      species: spinacia oleracea
+    combative_plants:
+    - strawberries
+    companion_plants:
+    - cabbage
+    - cauliflower
+    - celery
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 4/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 9/ 15 - 1/15
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 4/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 3/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 3/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 2/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 2/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 1/1 - 4/1
+        zone_8:
+          germination_days: 7
+          maturity_days: 40
+          planting_dates:
+          - 10/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 10/1 - 2/1
+  squash:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      genus: cucurbita
+    combative_plants: []
+    companion_plants:
+    - borage
+    - corn
+    - marjoram
+    - nasturtiums
+    - sunflower
+    - tansy
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 2/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 1/15 - 1/31
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_8:
+          germination_days: 5
+          maturity_days: 50
+          planting_dates:
+          - 3/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 2/28
+  stinging_nettle:
+    bad_predecessors: []
+    classification:
+      family: urticaceae
+      genus: urtica
+    combative_plants: []
+    companion_plants:
+    - apricot
+    - fruit_trees
+    - horseradish
+    - tomato
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 2/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 1/15 - 1/31
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 3/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 2/28
+  strawberry:
+    bad_predecessors: []
+    classification:
+      family: rosaceae
+      genus: fragaria
+    combative_plants:
+    - cabbage
+    - garlic
+    companion_plants:
+    - borage
+    - bush_beans
+    - chives
+    - lavender
+    - lettuce
+    - marigold
+    - onion
+    - sage
+    - spinach
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 2/1 - 2/15
+        zone_11:
+          planting_dates:
+          - 1/15 - 1/31
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_6:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 60
+          planting_dates:
+          - 3/1 - 3/15
+        zone_9:
+          planting_dates:
+          - 2/15 - 2/28
+  summer_squash:
+    bad_predecessors: []
+    classification:
+      family: unspecified
+      species: unspecified
+    combative_plants:
+    - potato
+    companion_plants:
+    - nasturtiums
+    - corn
+    - radishes
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 7
+          maturity_days: 45
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  sunflower:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      species: helianthus annuus
+    combative_plants:
+    - potato
+    companion_plants:
+    - cucumbers
+    - melons
+    - squash
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  sweet_potato:
+    bad_predecessors: []
+    classification:
+      family: convolvulaceae
+      species: ipomoea batatas
+    combative_plants:
+    - potato
+    companion_plants:
+    - corn
+    - beans
+    - peas
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 15
+          maturity_days: 100
+          planting_dates:
+          - 2/1 - 2/15
+  swiss_chard:
+    bad_predecessors: []
+    classification:
+      family: amaranthaceae
+      species: beta vulgaris subsp. cicla
+    combative_plants:
+    - kohlrabi
+    companion_plants:
+    - onions
+    - radishes
+    - celery
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 7
+          maturity_days: 50
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  tansy:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      genus: tanacetum
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - borage
+    - cabbage
+    - cherry
+    - cucumber
+    - fruit_trees
+    - grape_vine
+    - mulberry
+    - roses
+    - squash
+    - yarrow
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 7/1
+        zone_10:
+          planting_dates:
+          - 11/1 - 1/15
+        zone_11:
+          planting_dates:
+          - 10/15 - 12/1
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 6/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_6:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 3/31
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 1/15 - 3/15
+        zone_9:
+          planting_dates:
+          - 11/15 - 2/1
+  tarragon:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      species: artemisia dracunculus
+    combative_plants:
+    - ''
+    companion_plants:
+    - most vegetables and herbs
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  thyme:
+    bad_predecessors: []
+    classification:
+      family: lamiaceae
+      genus: thymus
+    combative_plants: []
+    companion_plants:
+    - cabbage
+    - roses
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - null
+        zone_10:
+          planting_dates:
+          - 2/15 - 4/1
+        zone_11:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_2:
+          planting_dates:
+          - null
+        zone_3:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_4:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_5:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_6:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_7:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 3/15 - 5/1
+        zone_9:
+          planting_dates:
+          - 3/1 - 4/15
+  tomatillo:
+    bad_predecessors: []
+    classification:
+      family: solanaceae
+      species: physalis philadelphica
+    combative_plants:
+    - walnuts
+    companion_plants:
+    - cilantro
+    - onions
+    - peppers
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 7
+          maturity_days: 75
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  tomato:
+    bad_predecessors: []
+    classification:
+      family: solanaceae
+      genus: solanum
+    combative_plants:
+    - apricot
+    - beets
+    - cabbage
+    - fennel
+    - potato
+    - rosemary
+    companion_plants:
+    - asparagus
+    - basil
+    - borage
+    - broccoli
+    - carrot
+    - cauliflower
+    - celery
+    - chives
+    - dill
+    - gooseberry
+    - grape_vine
+    - marigold
+    - marjoram
+    - mints
+    - nasturtium
+    - nasturtiums
+    - onion
+    - parsley
+    - parsnip
+    - stinging_nettle
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 6
+          maturity_days: 60
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  turnip:
+    bad_predecessors: []
+    classification:
+      family: brassicaceae
+      species: brassica rapa
+    combative_plants:
+    - kohlrabi
+    companion_plants:
+    - peas
+    - beans
+    - radishes
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 5
+          maturity_days: 30
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  winter_squash:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      species: cucurbita pepo
+    combative_plants:
+    - potato
+    companion_plants:
+    - nasturtium
+    - corn
+    - radishes
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 7
+          maturity_days: 80
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15
+  yarrow:
+    bad_predecessors: []
+    classification:
+      family: asteraceae
+      genus: achillea
+    combative_plants: []
+    companion_plants:
+    - apple
+    - apricot
+    - cherry
+    - chervil
+    - fruit_trees
+    - grape_vine
+    - grass
+    - mulberry
+    - tansy
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/15
+        zone_10:
+          planting_dates:
+          - 1/15 - 3/1
+        zone_11:
+          planting_dates:
+          - null
+        zone_2:
+          planting_dates:
+          - 5/1 - 6/1
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_4:
+          planting_dates:
+          - 4/15 - 5/15
+        zone_5:
+          planting_dates:
+          - 4/1 - 5/15
+        zone_6:
+          planting_dates:
+          - 3/15 - 5/1
+        zone_7:
+          planting_dates:
+          - 3/1 - 4/15
+        zone_8:
+          germination_days: 14
+          maturity_days: 90
+          planting_dates:
+          - 2/15 - 4/1
+        zone_9:
+          planting_dates:
+          - 1/15 - 3/1
+  zucchini:
+    bad_predecessors: []
+    classification:
+      family: cucurbitaceae
+      genus: cucurbita
+    combative_plants: []
+    companion_plants:
+    - corn
+    - marjoram
+    - nasturtium
+    dimensions:
+      length: 1
+      width: 1
+    good_predecessors: []
+    zone_data:
+      usda_zone:
+        zone_1:
+          planting_dates:
+          - 5/15 - 6/1
+        zone_10:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_11:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_2:
+          planting_dates:
+          - 5/1 - 5/15
+        zone_3:
+          planting_dates:
+          - 4/15 - 5/1
+        zone_4:
+          planting_dates:
+          - 4/1 - 4/15
+        zone_5:
+          planting_dates:
+          - 3/15 - 3/31
+        zone_6:
+          planting_dates:
+          - 3/1 - 3/15
+        zone_7:
+          planting_dates:
+          - 2/15 - 2/28
+        zone_8:
+          germination_days: 5
+          maturity_days: 40
+          planting_dates:
+          - 2/1 - 2/15
+        zone_9:
+          planting_dates:
+          - 4/1 - 4/15

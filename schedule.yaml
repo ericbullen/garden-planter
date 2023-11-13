@@ -1,0 +1,35 @@
+---
+simulation:
+  mutation_chance: 0.2
+  iterations: 400
+  start_date: 2/1
+  data_file: garden_info.yaml
+garden:
+  zone: 8
+  start_date: today
+  boxes:
+  - name: Closest to House
+    size: 4x4
+  - name: Near Shed
+    size: 4x4
+  - size: 8x8
+  desired_plants:
+  - name: Brandywine Tomato
+    type: tomato
+    max_in_ground_count: 7
+    max_plantings_per_interval: 7
+    number_wanted: 7
+  - name: Cherry Tomato
+    type: tomato
+    number_wanted: 3
+  - name: Green Beans
+    type: climbing_bean
+    number_wanted: 3
+  - type: cucumber
+    number_wanted: 3
+  - name: Canteloupe
+    type: melon
+    number_wanted: 3
+  - name: Jalapeno Pepper
+    type: pepper
+    number_wanted: 3
